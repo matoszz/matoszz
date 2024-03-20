@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 👨‍💻🐱 About me :
 
-- Matthew Anderson, also known by `@matoszz` or [Don Gato](https://dongato.info)
+- Matthew Anderson, also known by `@matoszz`
 - Pronouns: he/him
 - 🔭 I’m currently working on incubating a startup - check out [our open source repos](https://github.com/datumforge) and [website](https://www.datum.net)
 - 🌱 I’m currently learning Golang, GraphQL
