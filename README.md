@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 👨‍💻🐱 About me :
 
-[](cat-typing.gif)
+![](cat-typing.gif)
 
 - Matthew Anderson, also known by `@matoszz`
 - Pronouns: he/him
