@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### 👨‍💻🐱 About me :
 
+[](cat-typing.gif)
+
 - Matthew Anderson, also known by `@matoszz`
 - Pronouns: he/him
 - 🔭 I’m currently working on incubating a startup - check out [our open source repos](https://github.com/datumforge) and [website](https://www.datum.net)
