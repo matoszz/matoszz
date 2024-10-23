@@ -6,8 +6,6 @@
 - Matthew Anderson, also known by `@matoszz`
 - Pronouns: he/him
 - 🔭 I’m currently working on incubating a startup [the OpenLane](https://theopenlane.io) - check out our [open source](https://github.com/theopenlane) repositories and activity (stars and sponsors appreciated!)
-<iframe src="https://github.com/sponsors/theopenlane/card" title="Sponsor theopenlane" height="225" width="600" style="border: 0;"></iframe>
-
 - 🌱 I’m currently learning Golang, GraphQL, woodworking, and applying existing devops ninja skills to build software that makes peoples lives easier
 - I'm currently playing Elden Ring
 - I'm currently reading Shogun (the TV series I watched first, catching up on the books) and a random Brandon Sanderson book at any given time
